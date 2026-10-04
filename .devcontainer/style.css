@@ -1,0 +1,24 @@
+body{
+    background-color: goldenrod;
+    padding:0 20%;
+}
+
+img{
+    width: 100%;
+    border-radius:50px ;
+}
+
+h1{
+    color: crimson;
+}
+
+h2{
+    color: crimson;
+    border-bottom:2px solid;
+    padding: 5px 0;
+}
+
+a{
+    color: cyan;
+    font-weight: bold;
+}
